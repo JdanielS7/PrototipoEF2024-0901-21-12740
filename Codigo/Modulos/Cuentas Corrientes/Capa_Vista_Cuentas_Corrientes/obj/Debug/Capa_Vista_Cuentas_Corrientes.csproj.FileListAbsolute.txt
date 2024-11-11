@@ -1,0 +1,17 @@
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Cuentas Corrientes\Capa_Vista_Cuentas_Corrientes\obj\Debug\Capa_Vista_Cuentas_Corrientes.csproj.AssemblyReference.cache
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Cuentas Corrientes\Capa_Vista_Cuentas_Corrientes\obj\Debug\Capa_Vista_Cuentas_Corrientes.DeudaProveedores.resources
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Cuentas Corrientes\Capa_Vista_Cuentas_Corrientes\obj\Debug\Capa_Vista_Cuentas_Corrientes.Deuda_Clts.resources
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Cuentas Corrientes\Capa_Vista_Cuentas_Corrientes\obj\Debug\Capa_Vista_Cuentas_Corrientes.FormPrincipal.resources
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Cuentas Corrientes\Capa_Vista_Cuentas_Corrientes\obj\Debug\Capa_Vista_Cuentas_Corrientes.Nav_Clientes.resources
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Cuentas Corrientes\Capa_Vista_Cuentas_Corrientes\obj\Debug\Capa_Vista_Cuentas_Corrientes.Nav_Cobrador.resources
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Cuentas Corrientes\Capa_Vista_Cuentas_Corrientes\obj\Debug\Capa_Vista_Cuentas_Corrientes.Nav_FormaPago.resources
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Cuentas Corrientes\Capa_Vista_Cuentas_Corrientes\obj\Debug\Capa_Vista_Cuentas_Corrientes.Nav_Pais.resources
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Cuentas Corrientes\Capa_Vista_Cuentas_Corrientes\obj\Debug\Capa_Vista_Cuentas_Corrientes.Nav_Proveedores.resources
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Cuentas Corrientes\Capa_Vista_Cuentas_Corrientes\obj\Debug\Capa_Vista_Cuentas_Corrientes.Nav_Transaccion_Cuentas.resources
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Cuentas Corrientes\Capa_Vista_Cuentas_Corrientes\obj\Debug\Capa_Vista_Cuentas_Corrientes.Nav_Vendedores.resources
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Cuentas Corrientes\Capa_Vista_Cuentas_Corrientes\obj\Debug\Capa_Vista_Cuentas_Corrientes.frmPolizas.resources
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Cuentas Corrientes\Capa_Vista_Cuentas_Corrientes\obj\Debug\Capa_Vista_Cuentas_Corrientes.Properties.Resources.resources
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Cuentas Corrientes\Capa_Vista_Cuentas_Corrientes\obj\Debug\Capa_Vista_Cuentas_Corrientes.ReporteDeudaC.resources
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Cuentas Corrientes\Capa_Vista_Cuentas_Corrientes\obj\Debug\Capa_Vista_Cuentas_Corrientes.ReporteDeudaP.resources
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Cuentas Corrientes\Capa_Vista_Cuentas_Corrientes\obj\Debug\Capa_Vista_Cuentas_Corrientes.csproj.GenerateResource.cache
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Cuentas Corrientes\Capa_Vista_Cuentas_Corrientes\obj\Debug\Capa_Vista_Cuentas_Corrientes.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Vista_AmmyCatun\obj\Debug\Capa_Vista_AmmyCatun.csproj.AssemblyReference.cache
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Vista_AmmyCatun\obj\Debug\Capa_Vista_AmmyCatun.Destinatario.resources
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Vista_AmmyCatun\obj\Debug\Capa_Vista_AmmyCatun.frm_Chofer.resources
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Vista_AmmyCatun\obj\Debug\Capa_Vista_AmmyCatun.Properties.Resources.resources
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Vista_AmmyCatun\obj\Debug\Capa_Vista_AmmyCatun.Remitente.resources
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Vista_AmmyCatun\obj\Debug\Capa_Vista_AmmyCatun.Reporte_Pedidos.resources
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Vista_AmmyCatun\obj\Debug\Capa_Vista_AmmyCatun.Reporte_Transporte.resources
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Vista_AmmyCatun\obj\Debug\Capa_Vista_AmmyCatun.Transporte.resources
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Vista_AmmyCatun\obj\Debug\Capa_Vista_AmmyCatun.Transporte_Vehiculos.resources
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Vista_AmmyCatun\obj\Debug\Capa_Vista_AmmyCatun.csproj.GenerateResource.cache
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Vista_AmmyCatun\obj\Debug\Capa_Vista_AmmyCatun.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Nominas\PercepcionesDeducciones\TestPercepcionesDeducciones\obj\Debug\TestPercepcionesDeducciones.csproj.AssemblyReference.cache
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Nominas\PercepcionesDeducciones\TestPercepcionesDeducciones\obj\Debug\TestPercepcionesDeducciones.csproj.CoreCompileInputs.cache

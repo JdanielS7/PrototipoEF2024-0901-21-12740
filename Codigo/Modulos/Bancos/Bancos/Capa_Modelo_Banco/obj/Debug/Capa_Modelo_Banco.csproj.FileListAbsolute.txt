@@ -1,0 +1,5 @@
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\Capa_Modelo_Banco\bin\Debug\Capa_Modelo_Banco.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\Capa_Modelo_Banco\bin\Debug\Capa_Modelo_Banco.pdb
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\Capa_Modelo_Banco\obj\Debug\Capa_Modelo_Banco.csproj.CoreCompileInputs.cache
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\Capa_Modelo_Banco\obj\Debug\Capa_Modelo_Banco.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\Capa_Modelo_Banco\obj\Debug\Capa_Modelo_Banco.pdb

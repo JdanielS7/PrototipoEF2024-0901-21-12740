@@ -1,0 +1,9 @@
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Produccion\Lotes\Capa_Controlador_Lotes\obj\Debug\Capa_Controlador_Lotes.csproj.CoreCompileInputs.cache
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Produccion\Lotes\Capa_Controlador_Lotes\bin\Debug\Capa_Controlador_Lotes.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Produccion\Lotes\Capa_Controlador_Lotes\bin\Debug\Capa_Controlador_Lotes.pdb
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Produccion\Lotes\Capa_Controlador_Lotes\bin\Debug\Capa_Modelo_Lotes.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Produccion\Lotes\Capa_Controlador_Lotes\bin\Debug\Capa_Modelo_Lotes.pdb
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Produccion\Lotes\Capa_Controlador_Lotes\obj\Debug\Capa_Controlador_Lotes.csproj.AssemblyReference.cache
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Produccion\Lotes\Capa_Controlador_Lotes\obj\Debug\Capa_Controlador_Lotes.csproj.CopyComplete
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Produccion\Lotes\Capa_Controlador_Lotes\obj\Debug\Capa_Controlador_Lotes.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Produccion\Lotes\Capa_Controlador_Lotes\obj\Debug\Capa_Controlador_Lotes.pdb

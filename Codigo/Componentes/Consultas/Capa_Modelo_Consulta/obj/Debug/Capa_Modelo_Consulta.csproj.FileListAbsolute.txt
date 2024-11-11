@@ -1,0 +1,6 @@
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Componentes\Consultas\Capa_Modelo_Consulta\bin\Debug\Capa_Modelo_Consulta.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Componentes\Consultas\Capa_Modelo_Consulta\bin\Debug\Capa_Modelo_Consulta.pdb
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Componentes\Consultas\Capa_Modelo_Consulta\obj\Debug\Capa_Modelo_Consulta.csproj.AssemblyReference.cache
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Componentes\Consultas\Capa_Modelo_Consulta\obj\Debug\Capa_Modelo_Consulta.csproj.CoreCompileInputs.cache
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Componentes\Consultas\Capa_Modelo_Consulta\obj\Debug\Capa_Modelo_Consulta.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Componentes\Consultas\Capa_Modelo_Consulta\obj\Debug\Capa_Modelo_Consulta.pdb

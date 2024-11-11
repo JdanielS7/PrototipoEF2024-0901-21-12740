@@ -1,0 +1,9 @@
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Nominas\Anticipos\Capa_Controlador_Anticipos\obj\Debug\Capa_Controlador_Anticipos.csproj.AssemblyReference.cache
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Nominas\Anticipos\Capa_Controlador_Anticipos\obj\Debug\Capa_Controlador_Anticipos.csproj.CoreCompileInputs.cache
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Nominas\Anticipos\Capa_Controlador_Anticipos\bin\Debug\Capa_Controlador_Anticipos.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Nominas\Anticipos\Capa_Controlador_Anticipos\bin\Debug\Capa_Controlador_Anticipos.pdb
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Nominas\Anticipos\Capa_Controlador_Anticipos\bin\Debug\Capa_Modelo_Anticipo.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Nominas\Anticipos\Capa_Controlador_Anticipos\bin\Debug\Capa_Modelo_Anticipo.pdb
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Nominas\Anticipos\Capa_Controlador_Anticipos\obj\Debug\Capa_Controlador_Anticipos.csproj.CopyComplete
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Nominas\Anticipos\Capa_Controlador_Anticipos\obj\Debug\Capa_Controlador_Anticipos.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Nominas\Anticipos\Capa_Controlador_Anticipos\obj\Debug\Capa_Controlador_Anticipos.pdb

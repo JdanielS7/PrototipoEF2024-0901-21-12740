@@ -1,0 +1,5 @@
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Nominas\Anticipos\Capa_Modelo_Anticipo\bin\Debug\Capa_Modelo_Anticipo.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Nominas\Anticipos\Capa_Modelo_Anticipo\bin\Debug\Capa_Modelo_Anticipo.pdb
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Nominas\Anticipos\Capa_Modelo_Anticipo\obj\Debug\Capa_Modelo_Anticipos.csproj.CoreCompileInputs.cache
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Nominas\Anticipos\Capa_Modelo_Anticipo\obj\Debug\Capa_Modelo_Anticipo.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Nominas\Anticipos\Capa_Modelo_Anticipo\obj\Debug\Capa_Modelo_Anticipo.pdb

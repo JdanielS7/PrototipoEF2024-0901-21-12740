@@ -1,0 +1,14 @@
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\TipoCambio\Capa_Vista_Cambio\obj\Debug\Capa_Vista_Cambio.Properties.Resources.resources
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\TipoCambio\Capa_Vista_Cambio\obj\Debug\Capa_Vista_Cambio.frm_tipoCambio.resources
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\TipoCambio\Capa_Vista_Cambio\obj\Debug\Capa_Vista_Cambio.csproj.GenerateResource.cache
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\TipoCambio\Capa_Vista_Cambio\obj\Debug\Capa_Vista_Cambio.csproj.CoreCompileInputs.cache
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\TipoCambio\Capa_Vista_Cambio\bin\Debug\Capa_Vista_Cambio.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\TipoCambio\Capa_Vista_Cambio\bin\Debug\Capa_Vista_Cambio.pdb
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\TipoCambio\Capa_Vista_Cambio\bin\Debug\Capa_Controlador_Cambio.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\TipoCambio\Capa_Vista_Cambio\bin\Debug\Capa_Modelo_Cambio.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\TipoCambio\Capa_Vista_Cambio\bin\Debug\Capa_Controlador_Cambio.pdb
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\TipoCambio\Capa_Vista_Cambio\bin\Debug\Capa_Modelo_Cambio.pdb
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\TipoCambio\Capa_Vista_Cambio\obj\Debug\Capa_Vista_Cambio.csproj.AssemblyReference.cache
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\TipoCambio\Capa_Vista_Cambio\obj\Debug\Capa_Vista_Cambio.csproj.CopyComplete
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\TipoCambio\Capa_Vista_Cambio\obj\Debug\Capa_Vista_Cambio.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\TipoCambio\Capa_Vista_Cambio\obj\Debug\Capa_Vista_Cambio.pdb

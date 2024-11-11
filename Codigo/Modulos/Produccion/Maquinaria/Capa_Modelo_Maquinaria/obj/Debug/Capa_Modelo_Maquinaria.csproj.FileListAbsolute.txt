@@ -1,0 +1,5 @@
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Produccion\Maquinaria\Capa_Modelo_Maquinaria\bin\Debug\Capa_Modelo_Maquinaria.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Produccion\Maquinaria\Capa_Modelo_Maquinaria\bin\Debug\Capa_Modelo_Maquinaria.pdb
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Produccion\Maquinaria\Capa_Modelo_Maquinaria\obj\Debug\Capa_Modelo_Maquinaria.csproj.CoreCompileInputs.cache
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Produccion\Maquinaria\Capa_Modelo_Maquinaria\obj\Debug\Capa_Modelo_Maquinaria.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Produccion\Maquinaria\Capa_Modelo_Maquinaria\obj\Debug\Capa_Modelo_Maquinaria.pdb

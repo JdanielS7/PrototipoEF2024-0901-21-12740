@@ -1,0 +1,9 @@
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Contabilidad\Capa_Vista_Polizas\Capa_Controlador_Polizas\obj\Debug\Capa_Controlador_Polizas.csproj.AssemblyReference.cache
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Contabilidad\Capa_Vista_Polizas\Capa_Controlador_Polizas\obj\Debug\Capa_Controlador_Polizas.csproj.CoreCompileInputs.cache
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Contabilidad\Capa_Vista_Polizas\Capa_Controlador_Polizas\bin\Debug\Capa_Controlador_Polizas.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Contabilidad\Capa_Vista_Polizas\Capa_Controlador_Polizas\bin\Debug\Capa_Controlador_Polizas.pdb
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Contabilidad\Capa_Vista_Polizas\Capa_Controlador_Polizas\bin\Debug\Capa_Modelo_Polizas.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Contabilidad\Capa_Vista_Polizas\Capa_Controlador_Polizas\bin\Debug\Capa_Modelo_Polizas.pdb
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Contabilidad\Capa_Vista_Polizas\Capa_Controlador_Polizas\obj\Debug\Capa_Controlador_Polizas.csproj.CopyComplete
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Contabilidad\Capa_Vista_Polizas\Capa_Controlador_Polizas\obj\Debug\Capa_Controlador_Polizas.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Contabilidad\Capa_Vista_Polizas\Capa_Controlador_Polizas\obj\Debug\Capa_Controlador_Polizas.pdb

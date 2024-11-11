@@ -1,0 +1,6 @@
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\Movimientos\Capa_Modelo_Movimientos\bin\Debug\Capa_Modelo_Movimientos.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\Movimientos\Capa_Modelo_Movimientos\bin\Debug\Capa_Modelo_Movimientos.pdb
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\Movimientos\Capa_Modelo_Movimientos\obj\Debug\Capa_Modelo_Movimientos.csproj.AssemblyReference.cache
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\Movimientos\Capa_Modelo_Movimientos\obj\Debug\Capa_Modelo_Movimientos.csproj.CoreCompileInputs.cache
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\Movimientos\Capa_Modelo_Movimientos\obj\Debug\Capa_Modelo_Movimientos.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\Movimientos\Capa_Modelo_Movimientos\obj\Debug\Capa_Modelo_Movimientos.pdb

@@ -1,0 +1,8 @@
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Controlador_AmmyCatun\obj\Debug\Capa_Controlador_AmmyCatun.csproj.CoreCompileInputs.cache
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Controlador_AmmyCatun\bin\Debug\Capa_Controlador_AmmyCatun.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Controlador_AmmyCatun\bin\Debug\Capa_Controlador_AmmyCatun.pdb
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Controlador_AmmyCatun\bin\Debug\Capa_Modelo_AmmyCatun.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Controlador_AmmyCatun\bin\Debug\Capa_Modelo_AmmyCatun.pdb
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Controlador_AmmyCatun\obj\Debug\Capa_Controlador_AmmyCatun.csproj.CopyComplete
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Controlador_AmmyCatun\obj\Debug\Capa_Controlador_AmmyCatun.dll
+C:\Users\José Sierra\Desktop\asis22k24proy2\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Controlador_AmmyCatun\obj\Debug\Capa_Controlador_AmmyCatun.pdb
